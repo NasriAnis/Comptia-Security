@@ -42,6 +42,7 @@ Router(config-router)# no auto-summary
 Router(config-router)# network <network-address>
 Router(config-router)# network <network-address>
 Router(config-router)# end
+########## write // to save
 Router# copy running-config startup-config
 ```
 
@@ -55,3 +56,10 @@ Router# copy running-config startup-config
 | `network <network-address>`          | Tells the router which directly connected classful networks to advertise via RIP. For example, if an interface has an IP address of 192.168.1.10/24, you would use `network 192.168.1.0`. |
 | `end`                                | Exits configuration modes and returns to privileged EXEC mode.                                                                                                                            |
 | `copy running-config startup-config` | Saves the current configuration so it is not lost upon a device reboot.                                                                                                                   |
+| `show ip route`                      | To see if everything is working fine.                                                                                                                                                     |
+# Configure a DNS server
+To configure a DNS server pointing to a http server hosting a web page:
+1. Configure the necessities `ip addresses, routers, ect`
+2. configure the RIPv2 or any other routing protocol between the routers
+3. Give the DNS server the address of the http server, the computers the address of the DNS server.
+

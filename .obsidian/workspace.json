@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Foundation of IT/4- Packet tracer LAB.md",
+                "file": "Foundation of IT/Packet tracer lab/Packet tracer LAB.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4- Packet tracer LAB"
+              "title": "Packet tracer LAB"
             }
           }
         ]
@@ -180,10 +180,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "33b20a9f03e15546",
+  "active": "83f78d8146c5c7a2",
   "lastOpenFiles": [
+    "zzfiles/lab1.pkt",
+    "Foundation of IT/Packet tracer lab/lab1.pkt",
+    "Foundation of IT/Packet tracer lab",
+    "lab1.pkt~",
+    "lab1.pkt",
     "Foundation of IT/3- Network protocols and communication.md",
-    "Foundation of IT/4- Packet tracer LAB.md",
+    "Foundation of IT/Packet tracer lab/Packet tracer LAB.md",
     "Foundation of IT/4- Packet tracer lab",
     "zzfiles/Pasted image 20251226141700.png",
     "zzfiles/Pasted image 20251226140834.png",
