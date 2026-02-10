@@ -11,14 +11,12 @@
             "id": "e5c22367b3623e91",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "2- General Security Concepts/5- Cryptographic solutions.md",
-                "mode": "source",
-                "source": false
+                "file": "MCQs/GOMYCODE Security+ MCQ - Ch02.pdf"
               },
-              "icon": "lucide-file",
-              "title": "5- Cryptographic solutions"
+              "icon": "lucide-file-text",
+              "title": "GOMYCODE Security+ MCQ - Ch02"
             }
           }
         ]
@@ -78,7 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 259.5
   },
   "right": {
     "id": "1f2b09eec00bd933",
@@ -182,20 +180,23 @@
   },
   "active": "e5c22367b3623e91",
   "lastOpenFiles": [
+    "Labs and projects/Checkpoint 2.md",
+    "MCQs/GOMYCODE Security+ MCQ - Ch02.pdf",
+    "MCQs/GOMYCODE Security+ MCQ - Ch01.pdf",
+    "MCQs",
+    "Labs and projects/Checkpoint1.pdf",
+    "2- General Security Concepts/1- Types of security controls.md",
+    "2- General Security Concepts/5- Cryptographic solutions.md",
+    "2- General Security Concepts/Concepts/Certificate revocation list.md",
     "Labs and projects/steganography/images.jpeg",
     "Labs and projects/steganography/images2.jpeg",
-    "Labs and projects/Checkpoint 2.md",
-    "Labs and projects/Checkpoint1.pdf",
     "Labs and projects/Cryptography HTB Lab.md",
-    "Labs and projects/GOMYCODE Security+ MCQ - Ch01.pdf",
     "Labs and projects/Reverse engineering (Software RE).md",
-    "2- General Security Concepts/5- Cryptographic solutions.md",
     "Untitled.md",
     "Labs and projects/steganography",
     "steganography/images.jpeg",
     "steganography/images2.jpeg",
     "steganography",
-    "2- General Security Concepts/1- Types of security controls.md",
     "zzfiles/Pasted image 20260131230933.png",
     "zzfiles/Pasted image 20260131230822.png",
     "zzfiles/images 1.jpeg",
@@ -223,9 +224,6 @@
     "2- General Security Concepts/Concepts",
     "PDFs",
     "1- Foundation of IT/Tools/1- nmap.md",
-    "2- General Security Concepts",
-    "1- Foundation of IT/Tools/2- Metasploit.md",
-    "1- Foundation of IT/aaainfo",
-    "1- Foundation of IT/Tools"
+    "2- General Security Concepts"
   ]
 }

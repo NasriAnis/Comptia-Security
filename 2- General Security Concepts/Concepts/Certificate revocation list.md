@@ -1,0 +1,2 @@
+A Certificate Revocation List (CRL) is ==a digitally signed, time-stamped list issued by a Certificate Authority (CA) containing revoked digital certificates that should no longer be trusted==. It acts as a "blacklist" to identify invalid certificates before their expiration date due to key compromise, CA issues, or misrepresentation. Clients check CRLs during SSL/TLS handshake to verify certificate validity.
+
