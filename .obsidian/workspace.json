@@ -11,12 +11,14 @@
             "id": "e5c22367b3623e91",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "MCQs/GOMYCODE Security+ MCQ - Ch02.pdf"
+                "file": "Notes.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "GOMYCODE Security+ MCQ - Ch02"
+              "icon": "lucide-file",
+              "title": "Notes"
             }
           }
         ]
@@ -180,18 +182,18 @@
   },
   "active": "e5c22367b3623e91",
   "lastOpenFiles": [
-    "Labs and projects/Checkpoint 2.md",
+    "2- General Security Concepts/5- Cryptographic solutions.md",
+    "Labs and projects/Reverse engineering (Software RE).md",
     "MCQs/GOMYCODE Security+ MCQ - Ch02.pdf",
+    "Labs and projects/Checkpoint 2.md",
     "MCQs/GOMYCODE Security+ MCQ - Ch01.pdf",
     "MCQs",
     "Labs and projects/Checkpoint1.pdf",
     "2- General Security Concepts/1- Types of security controls.md",
-    "2- General Security Concepts/5- Cryptographic solutions.md",
     "2- General Security Concepts/Concepts/Certificate revocation list.md",
     "Labs and projects/steganography/images.jpeg",
     "Labs and projects/steganography/images2.jpeg",
     "Labs and projects/Cryptography HTB Lab.md",
-    "Labs and projects/Reverse engineering (Software RE).md",
     "Untitled.md",
     "Labs and projects/steganography",
     "steganography/images.jpeg",
@@ -206,7 +208,7 @@
     "2- General Security Concepts/2- Fundamental security concepts.md",
     "2- General Security Concepts/4- Explain the importance of using appropriate cryptographic solutions.md",
     "2- General Security Concepts/Concepts/Digital certificates and Certificate authorities.md",
-    "2- General Security Concepts/notes.md",
+    "Notes.md",
     "2- General Security Concepts/3- Change management process.md",
     "1- Foundation of IT/3- Network protocols and communication.md",
     "1- Foundation of IT/4- Network scanning and traffic analysis.md",
